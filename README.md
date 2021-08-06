@@ -5,4 +5,5 @@ Python Basic projects
 3. Youtube video downloader
 4. stack game
 5. Sentiment analyzer using tkinter
-
+6. Turtle race - dice game
+7. Draw Doraemon
